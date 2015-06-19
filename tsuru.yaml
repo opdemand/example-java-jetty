@@ -1,4 +1,0 @@
-hooks:
-  build:
-     - ./build.sh
-
