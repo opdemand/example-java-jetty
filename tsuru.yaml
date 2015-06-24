@@ -1,4 +1,5 @@
 hooks:
   build:
      - ./build.sh
-
+healthcheck:
+  path: /healthcheck
