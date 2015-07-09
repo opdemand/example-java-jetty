@@ -1,1 +1,1 @@
-../Procfile
+web: java -cp helloworld-1.0-SNAPSHOT.jar:dependency/* HelloWorld
